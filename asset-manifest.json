@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.c15ffcd6.chunk.css",
-    "main.js": "/static/js/main.cdcc879b.chunk.js",
-    "main.js.map": "/static/js/main.cdcc879b.chunk.js.map",
+    "main.css": "/static/css/main.76fbe524.chunk.css",
+    "main.js": "/static/js/main.5528f806.chunk.js",
+    "main.js.map": "/static/js/main.5528f806.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9d542ded.js",
     "runtime-main.js.map": "/static/js/runtime-main.9d542ded.js.map",
     "static/css/2.d34346ea.chunk.css": "/static/css/2.d34346ea.chunk.css",
-    "static/js/2.1b1716dc.chunk.js": "/static/js/2.1b1716dc.chunk.js",
-    "static/js/2.1b1716dc.chunk.js.map": "/static/js/2.1b1716dc.chunk.js.map",
+    "static/js/2.a9354927.chunk.js": "/static/js/2.a9354927.chunk.js",
+    "static/js/2.a9354927.chunk.js.map": "/static/js/2.a9354927.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.44aff5ea589772bdf44d23d3208e4bcf.js": "/precache-manifest.44aff5ea589772bdf44d23d3208e4bcf.js",
+    "precache-manifest.c4c6a54905e9d198c4f3adf96e3ac483.js": "/precache-manifest.c4c6a54905e9d198c4f3adf96e3ac483.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d34346ea.chunk.css.map": "/static/css/2.d34346ea.chunk.css.map",
-    "static/css/main.c15ffcd6.chunk.css.map": "/static/css/main.c15ffcd6.chunk.css.map",
-    "static/js/2.1b1716dc.chunk.js.LICENSE.txt": "/static/js/2.1b1716dc.chunk.js.LICENSE.txt",
+    "static/css/main.76fbe524.chunk.css.map": "/static/css/main.76fbe524.chunk.css.map",
+    "static/js/2.a9354927.chunk.js.LICENSE.txt": "/static/js/2.a9354927.chunk.js.LICENSE.txt",
     "static/media/AD.svg": "/static/media/AD.30e74864.svg",
     "static/media/AE.svg": "/static/media/AE.971f71b8.svg",
     "static/media/AF.svg": "/static/media/AF.5d9f0038.svg",
@@ -280,9 +280,9 @@
     "static/media/ZA.svg": "/static/media/ZA.2bb51467.svg",
     "static/media/ZM.svg": "/static/media/ZM.56a87e9b.svg",
     "static/media/ZW.svg": "/static/media/ZW.381136e4.svg",
+    "static/media/email.jpg": "/static/media/email.2e9100ba.jpg",
     "static/media/App.scss": "/static/media/footer.eab8bdf2.png",
     "static/media/login.jpg": "/static/media/login.ecfb9ffd.jpg",
-    "static/media/otp.jpg": "/static/media/otp.b5270c13.jpg",
     "static/media/register.png": "/static/media/register.004450d5.png",
     "static/media/web_logo.png": "/static/media/web_logo.af3712e7.png",
     "static/media/whatsapp_logo.png": "/static/media/whatsapp_logo.18ba0e41.png",
@@ -291,8 +291,8 @@
   "entrypoints": [
     "static/js/runtime-main.9d542ded.js",
     "static/css/2.d34346ea.chunk.css",
-    "static/js/2.1b1716dc.chunk.js",
-    "static/css/main.c15ffcd6.chunk.css",
-    "static/js/main.cdcc879b.chunk.js"
+    "static/js/2.a9354927.chunk.js",
+    "static/css/main.76fbe524.chunk.css",
+    "static/js/main.5528f806.chunk.js"
   ]
 }
